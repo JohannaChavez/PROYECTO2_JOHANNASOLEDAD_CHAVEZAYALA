@@ -1,0 +1,61 @@
+[{
+    "Destino": "Ushuaia",
+    "id": 1,
+    "imagen":"ushuaia1.jpg",
+    "paisajes":["ushuaia2.jpg","ushuaia3.jpg","ushuaia4.jpg", "ushuaia5.jpg"],
+    "Salidas": "15 de noviembre",
+    "resumen":"Bienvenidos al Fin del Mundo. Usuhaia ofrece paisajes imponentes,fauna asombrosa y mucho por conocer.",
+    "Descripcion": "ITINERARIO: city tour temático USHUAIA: conocé el Fin del Mundo, excursión parque Nacional TIERRA DEL FUEGO. TREN del FIN del MUNDO, Museo de los PRESIDIARIOS",
+    "Precio": "$199999"
+  },
+  {
+    "Destino": "Bariloche",
+    "id": 2,
+    "imagen":"bariloche1.jpg",
+    "paisajes":["bariloche2.jpg","bariloche3.jpg","bariloche4.jpg","bariloche5.jpg"],
+    "Salidas": "7 de noviembre",
+    "resumen":"Bosques milenarios, montañas cubiertas de nieve y lagos cristalinos, explorá San Carlos de Bariloche.",
+    "Descripcion": "ITINERARIO:Circuito Chico & Punto Panorámico, Cerro Campanario & Mirador Llao Llao, Circuito Lagos Patagónicos, TREKKING POR BOSQUE PATAGONICO & CASCADA DE LOS DUENDES, Playa Bonita",
+    "Precio": "$199999"
+  },
+  {
+    "Destino": "Villa Carlos Paz",
+    "id": 3,
+    "imagen":"carlospaz1.jpg",
+    "paisajes":["carlospaz2.jpg","carlospaz3.jpg","carlospaz4.jpg","carlospaz5.jpg"],
+    "Salidas": "3 de noviembre",
+    "resumen":"Descubrí Villa Carlos Paz, ctividades al aire libre y rincones naturales, parques de entretenimiento y diversos atractivos culturales.",
+    "Descripcion": "ITINERARIO:Excursión a LOS COCOS, aerosillas, ICEBAR, visita guiada a La cumbrecita, paseo Villa Yacanto",
+    "Precio": "$75000"
+  },
+  {
+    "Destino": "Cataratas del Iguazu",
+    "id": 4,
+    "imagen":"iguazu1.jpg",
+    "paisajes":["iguazu2.jpg","iguazu3.jpg","iguazu4.jpg","iguazu5.jpg"],
+    "Salidas": "12 de noviembre",
+    "resumen":"Deslumbrate con una de las Siete Maravillas Naturales del Mundo; uno de los lugares más espectaculares de Latinoamérica.",
+    "Descripcion": "ITINERARIO: Cataratas Argentinas / incluye los 3 circuitos + trencito a la Garganta del Diablo, La ARIPUCA, Minas de piedras semi preciosas Wanda, Ruinas Jesuíticas De San Ignacio, Paseo en BALSA x el RIO",
+    "Precio": "$85000"
+  },
+  {
+    "Destino": "Mendoza",
+    "id": 5,
+    "imagen":"mendoza1.jpg",
+    "paisajes":["mendoza2.jpg","mendoza3.jpg","mendoza4.jpg","mendoza5.jpg"],
+    "Salidas": "19 de noviembre",
+    "resumen":"Situada al pie de la Cordillera de los Andes, ofrece espectaculares experiencias, asombrate con este destino.",
+    "Descripcion": "ITINERARIO:Excursión al Complejo TERMAL de Montaña CACHEUTA con entr inc.Excursión a ALTA MONTAÑA: recorriendo Uspallata, Penitentes, Los Horcones, Aconcagua, Puente del Inca, Las Cuevas. Visita a BODEGA con degustación. Visita a CHOCOLEZZA",
+    "Precio": "$89999"
+  },
+  {
+    "Destino": "Salta",
+    "id": 6,
+    "imagen":"salta1.jpg",
+    "paisajes":["salta2.jpg","salta3.jpg","salta4.jpg","salta5.jpg"],
+    "Salidas": "21 de noviembre",
+    "resumen":"Viví experiencias únicas, en un entorno que hace una invitación a la aventura, por su paisaje y sus grandes extensiones de territorio. ",
+    "Descripcion": "ITINERARIO: Cerro San Bernardo, Catedral Basílica de Salta, Quebrada de San Lorenzo (Trekking nivel intermedio), Paseo por el Tren de las nubes. ",
+    "Precio": "$169999"
+  }
+]
