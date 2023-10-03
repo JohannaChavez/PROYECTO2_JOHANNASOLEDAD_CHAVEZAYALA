@@ -12,7 +12,7 @@ fetch("viajes.json")
         gridItem.innerHTML = `
                             <div>
                                 <div class="card">
-                                <img src="../img/${viajes.imagen}"
+                                <img src="./img/${viajes.imagen}"
                                 class="card-img-top"
                                 alt=" fotografia de paisaje rocoso junto al mar con pingüinos y lobos marinos"/>
                                 <div class="card-body">
